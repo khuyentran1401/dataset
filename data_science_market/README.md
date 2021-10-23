@@ -1,0 +1,2 @@
+# Data about Data Science Job Market
+This articles uses the data extracted from [Diffbot](https://www.diffbot.com). You can get the data from Diffbot for free by signing up for the free 2 week trial. Find more instructions on how to use Diffbot [here](https://towardsdatascience.com/build-and-analyze-knowledge-graphs-with-diffbot-2af83065ade0).
