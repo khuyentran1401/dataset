@@ -7,3 +7,4 @@ data_science_market/majors_df.pkl filter=lfs diff=lfs merge=lfs -text
 data_science_market/top_titles.pkl filter=lfs diff=lfs merge=lfs -text
 data_science_market/cities.pkl filter=lfs diff=lfs merge=lfs -text
 data_science_market/countries.pkl filter=lfs diff=lfs merge=lfs -text
+data_science_market/state_jobs.csv filter=lfs diff=lfs merge=lfs -text
