@@ -9,3 +9,7 @@ data_science_market/cities.pkl filter=lfs diff=lfs merge=lfs -text
 data_science_market/countries.pkl filter=lfs diff=lfs merge=lfs -text
 data_science_market/state_jobs.csv filter=lfs diff=lfs merge=lfs -text
 data_science_market/data_scientist.pkl filter=lfs diff=lfs merge=lfs -text
+data_science_market/universities.pkl filter=lfs diff=lfs merge=lfs -text
+data_science_market/bootcamps.pkl filter=lfs diff=lfs merge=lfs -text
+data_science_market/gender_by_bootcamps.pkl filter=lfs diff=lfs merge=lfs -text
+data_science_market/gender_by_universities.pkl filter=lfs diff=lfs merge=lfs -text
